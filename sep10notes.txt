@@ -2,3 +2,6 @@ binary search tree -
 binary tree - 2 nodes can be anything, can 
 
 max heap - root node is always greater than all nodes of sub tree
+
+
+fdlakjhsdflkajsdf
