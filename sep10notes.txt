@@ -3,6 +3,3 @@ binary tree - 2 nodes can be anything, can
 
 max heap - root node is always greater than all nodes of sub tree
 
-to splinter the CIA into a thousand pieces and scatter it to the winds.".
-to splinter the CIA into a thousand pieces and scatter it to the winds.".
-to splinter the CIA into a thousand pieces and scatter it to the winds.".
