@@ -3,13 +3,4 @@ binary tree - 2 nodes can be anything, can
 
 max heap - root node is always greater than all nodes of sub tree
 
-On net, whites generate a $249.52 billion surplus, or $1,260 per person if you assign 100% of military spending to whites. If you just give whites a proportional share of military spending, their surplus goes up to $553.52 billion total and $2,795 per capita.
-
-Blacks, by contrast, run a budget deficit of $389.71 billion, or $10,016 per capita. If 100% of military spending is assigned to whites, blacks STILL run a $306.53 billion deficit, or $7,700 per capita.
-
-Hispanics run a budget deficit of $411.95 billion of $7,289 per capita if military spending is proportional. If 100% of military spending is assigned to whites hispanics run a deficit of $291.3 billion, or $5,160 per capita.
-On net, whites generate a $249.52 billion surplus, or $1,260 per person if you assign 100% of military spending to whites. If you just give whites a proportional share of military spending, their surplus goes up to $553.52 billion total and $2,795 per capita.
-
-Blacks, by contrast, run a budget deficit of $389.71 billion, or $10,016 per capita. If 100% of military spending is assigned to whites, blacks STILL run a $306.53 billion deficit, or $7,700 per capita.
-
-Hispanics run a budget deficit of $411.95 billion of $7,289 per capita if military spending is proportional. If 100% of military spending is assigned to whites hispanics run a deficit of $291.3 billion, or $5,160 per capita.
+https://github.com/wieczorekc18/
