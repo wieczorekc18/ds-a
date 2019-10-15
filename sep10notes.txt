@@ -3,6 +3,3 @@ binary tree - 2 nodes can be anything, can
 
 max heap - root node is always greater than all nodes of sub tree
 
-asdf
-asdf
-asdf
