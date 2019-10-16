@@ -3,3 +3,6 @@ binary tree - 2 nodes can be anything, can
 
 max heap - root node is always greater than all nodes of sub tree
 
+I’m the candidate you’ve been looking for to fill this position. I’m a software engineer with a focus on web development. My skills include JavaScript, Ruby, Ruby on Rails, React.js, Redux.js, HTML5, and CSS. I recently graduated from the #1 ranked coding bootcamp, App Academy, where I had the opportunity to substantially refine my skills. If given the opportunity I could hit the ground running in order to deliver on the services you provide to clients. I look forward to hearing from you.
+Thanks,
+Corey
