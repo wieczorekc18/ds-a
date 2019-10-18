@@ -68,32 +68,34 @@ To use a 1-index array as a max heap use these rules
     parent is greater than inserted value
 */
 
-class MaxHeap{
-    constructor(){
-        this.array = [Infinity]; //because index 0 will screw up rules listed above
-    }
+// class MaxHeap{
+//     constructor(){
+//         this.array = [Infinity]; //because index 0 will screw up rules listed above
+//     }
 
-    insert(val){
-        // find where can this value be added without breaking rules
-        const ary = this.array
-        ary.push(val)
-        this.siftUp(ary.length - 1)
-    }
+//     insert(val){
+//         // find where can this value be added without breaking rules
+//         const ary = this.array
+//         ary.push(val)
+//         this.siftUp(ary.length - 1)
+//     }
 
-    siftUp(idx){
-        // check if node at idx is bigger than parent
-        // if it is bigger swap with parent
+//     siftUp(idx){
+//         // check if node at idx is bigger than parent
+//         // if it is bigger swap with parent
 
-        // const parentIdx = Math.floor(idx/2);
-        // if(this.array[idx] > this.array[parentIdx]){
-        //     [ this.array[idx], this.array[parenIdx] ] = [ this.array[parentIdx], this.array[idx] ]
-        // }
-        const ary = this.array
-        const parentIdx = Math.floor(idx / 2);
+//         // const parentIdx = Math.floor(idx/2);
+//         // if(this.array[idx] > this.array[parentIdx]){
+//         //     [ this.array[idx], this.array[parenIdx] ] = [ this.array[parentIdx], this.array[idx] ]
+//         // }
+//         const ary = this.array
+//         const parentIdx = Math.floor(idx / 2);
         
-        if (ary[idx] > ary[parentIdx]) {
-            [ary[idx], ary[parenIdx]] = [ary[parentIdx], ary[idx]]
-            this.siftUp(parentIdx)
-        }
-    }
-}
+//         if (ary[idx] > ary[parentIdx]) {
+//             [ary[idx], ary[parenIdx]] = [ary[parentIdx], ary[idx]]
+//             this.siftUp(parentIdx)
+//         }
+//     }
+// }
+
+
