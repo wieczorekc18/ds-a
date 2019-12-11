@@ -1,0 +1,70 @@
+Round 1: Hackerrank
+2 easy questions, with brute force accepted
+First question was similar to :
+https://www.geeksforgeeks.org/recursively-remove-adjacent-duplicates-given-string/
+
+Round 2: Codepad Round
+Q1. https://www.geeksforgeeks.org/find-minimum-element-in-a-sorted-and-rotated-array/
+Q2. https://www.geeksforgeeks.org/median-two-sorted-arrays-different-sizes-ologminn-m/
+O(n) accepted
+
+
+Round 3: Codepad Round
+Q1. https://leetcode.com/problems/string-compression/
+Q2 .https://www.geeksforgeeks.org/container-with-most-water/
+
+Round 4. (Telephonic)
+Q1.https://www.geeksforgeeks.org/design-a-data-structure-that-supports-insert-delete-search-and-getrandom-in-constant-time/
+Q2. https://www.geeksforgeeks.org/lru-cache-implementation/
+Q3. https://www.geeksforgeeks.org/add-1-number-represented-linked-list/
+Q4. https://www.geeksforgeeks.org/given-an-array-of-of-size-n-finds-all-the-elements-that-appear-more-than-nk-times/
+
+
+Round 5. (Telephonic)
+Q1. https://www.geeksforgeeks.org/singleton-design-pattern/
+
+
+Q2. https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+Q3.https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/
+Q4. https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/
+
+OnSite Rounds
+
+Round 6
+Q1. https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/
+Q2. https://www.geeksforgeeks.org/puzzle-26-know-average-salary-without-disclosing-individual-salaries/
+Q3.https://www.geeksforgeeks.org/find-minimum-moves-reach-target-infinite-line/
+
+Round 7
+Q1. https://www.geeksforgeeks.org/optimal-strategy-for-a-game-dp-31/
+Q2. https://www.interviewbit.com/problems/ways-to-decode/
+Some Discussion on current role in the present company
+
+Round 8
+Resume Based, Questions on React.js and Redux (based on current role)
+Questions on LifeCylce Hooks, Gulp, Testing Single Page Applications
+
+Round 9
+Q1. https://www.geeksforgeeks.org/check-for-balanced-parentheses-in-an-expression/
+Q2. Based on Preferred high level language, which was C++ for me
+Questions on Virtual functions, Pure Virtual Function, Abstraction and OOPS
+Q3. How to make your own HashTable
+
+Round 10
+Q1. https://www.geeksforgeeks.org/queries-counts-array-elements-values-given-range/
+Q2. https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/
+
+
+
+------------------------------------------------------------------------------------------
+
+
+Other questions 
+https://www.geeksforgeeks.org/minimize-the-maximum-difference-between-the-heights/
+
+
+https://www.geeksforgeeks.org/goldman-sachs-interview-experienceiit-guwahati/
+
+https://news.efinancialcareers.com/uk-en/220502/goldman-sachs-interview-questions
+
+https://www.youtube.com/watch?v=amdKmQlATmQ&list=PLqM7alHXFySG2qvBJTeQ7YXfMQHWh1012

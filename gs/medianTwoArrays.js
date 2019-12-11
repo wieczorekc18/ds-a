@@ -2,8 +2,6 @@
 // find median of two sorted arrays
 
 
-// doesn't quite work
-
 function median(a, b){
     let totalLength = a.length+b.length
     if(totalLength <= 1){
