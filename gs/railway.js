@@ -17,8 +17,8 @@ There are at-most three trains at a time (time between 11:00 to 11:20)
 
 function maxRails(arrivals, departures){
     let n = arrivals.length
-    arrivals.sort(function (a, b) { return a > b })
-    departures.sort(function (a, b) { return a > b })
+    arrivals.sort((a, b) => a - b);
+    departures.sort((a, b) => a-b)
     console.log(arrivals)
     console.log(departures)
     let railsNeeded = 1
