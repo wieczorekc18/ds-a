@@ -49,7 +49,7 @@ function median(a, b){
     if (totalLength % 2 == 1) {
       return median
     } else {
-      return (median + next) /2 // not valid
+      return (median + next) /2 
     }
 }
 
