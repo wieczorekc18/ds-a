@@ -17,6 +17,32 @@ Note: You may assume the string contain only lowercase letters.
 
 */
 
+function firstUniq(str){
+    let obj = {}
+    for(let i = 0; i < str.length; i++){
+        if(str[i] in obj){
+            obj[str[i]] += 1
+        }else{
+            obj[str[i]] = 1
+        }
+    }
+    for (let i = 0; i < str.length; i++) {
+        if(obj[str[i]] == 1){
+            return i
+        }
+    }
+    return -1;
+}
+
+
+
+
+
+
+
+
+
+
 var firstUniqueChar = function(s) {
     let current
     let appears
@@ -57,4 +83,4 @@ var firstUniqChar = function(s) {
 };
 
 let string = "lllllllllloveleetcode"
-console.log(firstUniqChar(string))
+console.log(firstUniq(string))

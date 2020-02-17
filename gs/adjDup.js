@@ -18,6 +18,12 @@ so it is further reduced to “ay”.
 
 
 
+
+
+
+
+
+
 // not completed
 
 function removeAdjDup(string){

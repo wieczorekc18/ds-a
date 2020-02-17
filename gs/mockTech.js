@@ -8,6 +8,7 @@ in its product with the given number q.
 
 */
 
+
 function digitMatching(range, q){
     let start = range[0];
     let end = range[1];
@@ -48,7 +49,7 @@ function strangeSort(map, nums){
     for(let i = 0; i < nums.length; i++){
         let currentString = nums[i];
         let stringStruct = "";
-        for(let j = 0; j<currentString; j++){
+        for(let j = 0; j<currentString.length; j++){
             let currentNum = currentString[j];
             currentNum = parseInt(currentNum);
             let correctNum = map.indexOf(currentNum);
@@ -60,5 +61,5 @@ function strangeSort(map, nums){
     }
     let sortedMappedNums = mappedNums.sort((a,b)=> a-b)
     
-
+    return sortedMappedNums
 }
